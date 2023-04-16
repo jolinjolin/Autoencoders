@@ -1,4 +1,4 @@
-# autoencoder
+# Autoencoders on MNIST dataset
 
 This repository contains two Jupyter notebooks (`denoiser.ipynb` and `VAE.ipynb`) that implement denoising autoencoder and variational autoencoder on the MNIST dataset.
 
