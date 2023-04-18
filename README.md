@@ -8,10 +8,10 @@ The denoising autoencoder notebook trains on corrupted images of MNIST dataset a
 To run the notebook, ensure that you have installed the following dependencies:
 
 - Python 3.x
-- Pytorch
+- PyTorch
 - NumPy
 - Matplotlib
-- Sklearn
+- scikit-learn
 
 Then, open the `denoiser.ipynb` file in Jupyter and run the cells in order.
 
@@ -21,7 +21,7 @@ The variational autoencoder notebook trains a variational autoencoder on the MNI
 To run the notebook, ensure that you have installed the following dependencies:
 
 - Python 3.x
-- Pytorch
+- PyTorch
 - NumPy
 - Matplotlib
 
