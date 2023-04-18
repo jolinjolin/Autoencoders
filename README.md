@@ -23,7 +23,7 @@ To run the notebook, ensure that you have installed the following dependencies:
 - Pytorch
 - NumPy
 - Matplotlib
-Then, open the variational_autoencoder.ipynb file in Jupyter and run the cells in order.
+Then, open the `VAE.ipynb` file in Jupyter and run the cells in order.
 
 Note: Both notebooks use the MNIST dataset, which is included in Pytorch. If you have previously downloaded the dataset, please update the path accordingly.
 
