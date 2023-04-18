@@ -12,6 +12,7 @@ To run the notebook, ensure that you have installed the following dependencies:
 - NumPy
 - Matplotlib
 - Sklearn
+
 Then, open the `denoiser.ipynb` file in Jupyter and run the cells in order.
 
 Variational Autoencoder
@@ -23,6 +24,7 @@ To run the notebook, ensure that you have installed the following dependencies:
 - Pytorch
 - NumPy
 - Matplotlib
+
 Then, open the `VAE.ipynb` file in Jupyter and run the cells in order.
 
 Note: Both notebooks use the MNIST dataset, which is included in Pytorch. If you have previously downloaded the dataset, please update the path accordingly.
